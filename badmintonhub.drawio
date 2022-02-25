@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T23:27:11.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ea1gok8e-fTbxvc-Nwnx" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T23:29:58.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dU2zi1lEGsGynPJNKTiy" version="16.6.3" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1564" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -14,16 +14,16 @@
           <mxGeometry x="840" y="95" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-4" value="offers" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="780" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="690" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-5" value="subscribe" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="840" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="750" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-6" value="purchases" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="915" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="840" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-7" value="History" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="1000" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="930" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="240" width="200" height="590" as="geometry" />
@@ -76,7 +76,7 @@
         <mxCell id="677b7b8949515195-40" value="Video Tutorials" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-42" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-42" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;External Links&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="653" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-44" value="Popularity" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
@@ -111,6 +111,21 @@
         </mxCell>
         <mxCell id="GhRlhsCJo0ZByfuzHqfN-6" value="Learning Tips" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhRlhsCJo0ZByfuzHqfN-10" value="Login" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="1010" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhRlhsCJo0ZByfuzHqfN-11" value="History" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="970" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhRlhsCJo0ZByfuzHqfN-12" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Gallery&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="861" y="690" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhRlhsCJo0ZByfuzHqfN-13" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;About Us&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="860" y="750" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhRlhsCJo0ZByfuzHqfN-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Advertise&lt;/b&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="861" y="720" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
