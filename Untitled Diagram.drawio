@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T19:26:23.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Q4910a32U6CbjVbKsIHU" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T19:30:15.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9NAT7Jb5VLJi8I0I_I-F" version="16.6.4" type="github">
   <diagram id="mVrhydkxD0Cs-GL3BYvf" name="Page-1">
     <mxGraphModel dx="978" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="FAFSozOND5ChxRqs9UHx-48" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="435" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FAFSozOND5ChxRqs9UHx-49" value="Buyer" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FAFSozOND5ChxRqs9UHx-49" value="&lt;b&gt;Buyer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FAFSozOND5ChxRqs9UHx-50" value="Seller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="FAFSozOND5ChxRqs9UHx-50" value="&lt;b&gt;Seller&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="235" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FAFSozOND5ChxRqs9UHx-51" value="Validator" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FAFSozOND5ChxRqs9UHx-51" value="&lt;b&gt;Validator&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FAFSozOND5ChxRqs9UHx-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="FAFSozOND5ChxRqs9UHx-62" target="FAFSozOND5ChxRqs9UHx-45" edge="1">
