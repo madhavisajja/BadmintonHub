@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T21:11:35.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Be5lwfTCkVZmbLSjQCj6" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T02:38:15.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LT41-_wgMegRIDC08G-U" version="16.6.4" type="github">
   <diagram id="JXjJM4V6-0l3QLkHdt1O" name="Page-1">
-    <mxGraphModel dx="1043" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="310" y="110" width="5" height="350" as="geometry" />
         </mxCell>
         <mxCell id="2xAtY265kL3GdkyfYf-X-15" value="Sell" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="2xAtY265kL3GdkyfYf-X-1">
-          <mxGeometry x="6" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="16" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2xAtY265kL3GdkyfYf-X-16" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="2xAtY265kL3GdkyfYf-X-1">
           <mxGeometry x="80" y="110" width="70" height="30" as="geometry" />
